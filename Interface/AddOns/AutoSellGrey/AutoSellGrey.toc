@@ -1,0 +1,7 @@
+## Interface: 120000, 50503, 11508, 20505
+## Title: AutoSellGrey
+## Notes: Automatically sells grey items from your bags when visiting a vendor.
+## Author: IceDNicco
+## Version: 2.0
+## SavedVariables: AutoSellGreySettings
+AutoSellGrey.lua

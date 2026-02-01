@@ -1,0 +1,13 @@
+## Interface: 20505
+## Title: |cffff306fBuloLayer|r
+## Version: 2.0
+## Notes: Advanced layer swap addon. /l or /layer to find group. /layerconfig for options.
+## DefaultState: enabled
+## Author: Bulo
+## SavedVariables: BulolayerDB
+## SavedVariablesPerCharacter: BulolayerCharDB
+
+Bulolayer_Utils.lua
+Bulolayer_Minimap.lua
+Bulolayer_Options.lua
+Bulolayer.lua

@@ -1,0 +1,130 @@
+
+Bagnon_Sets = {
+["latest"] = {
+},
+["global"] = {
+["inventory"] = {
+["bagBreak"] = 2,
+["brokerObject"] = "BagnonLauncher",
+["options"] = true,
+["point"] = "BOTTOMRIGHT",
+["color"] = {
+},
+["bagToggle"] = false,
+["money"] = true,
+["skin"] = "Bubble",
+["y"] = 99.99999237060547,
+["x"] = -49.9998779296875,
+["sort"] = true,
+["borderColor"] = {
+},
+["broker"] = false,
+["sidebar"] = false,
+["activeRules"] = {
+["sidebar"] = "all",
+},
+["rules"] = {
+["sidebar"] = {
+"all",
+"normal",
+"trade",
+},
+},
+},
+["vault"] = {
+["rules"] = {
+["sidebar"] = {
+"all",
+"tradegoods",
+"consumable",
+"armor",
+"questitem",
+"miscellaneous",
+},
+},
+["borderColor"] = {
+},
+["color"] = {
+},
+["activeRules"] = {
+},
+},
+["guild"] = {
+["rules"] = {
+["sidebar"] = {
+"all",
+"tradegoods",
+"consumable",
+"armor",
+"questitem",
+"miscellaneous",
+},
+},
+["borderColor"] = {
+},
+["color"] = {
+},
+["activeRules"] = {
+},
+},
+["bank"] = {
+["y"] = 345.4434204101563,
+["x"] = 95,
+["point"] = "BOTTOMLEFT",
+["borderColor"] = {
+},
+["color"] = {
+},
+["activeRules"] = {
+},
+["rules"] = {
+["sidebar"] = {
+"all",
+"tradegoods",
+"consumable",
+"armor",
+"questitem",
+"miscellaneous",
+},
+},
+},
+},
+["customRules"] = {
+},
+["color"] = {
+["quiver"] = {
+},
+["account"] = {
+},
+["enchant"] = {
+},
+["soul"] = {
+},
+["reagent"] = {
+},
+["mine"] = {
+},
+["engineer"] = {
+},
+["inscribe"] = {
+},
+["fridge"] = {
+},
+["gem"] = {
+},
+["key"] = {
+},
+["tackle"] = {
+},
+["leather"] = {
+},
+["normal"] = {
+},
+["herb"] = {
+},
+},
+["display"] = {
+},
+["profiles"] = {
+},
+}

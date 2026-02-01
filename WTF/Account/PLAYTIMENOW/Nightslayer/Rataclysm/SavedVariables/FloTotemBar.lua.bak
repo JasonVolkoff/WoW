@@ -1,0 +1,63 @@
+
+FLOTOTEMBAR_OPTIONS = {
+{
+["scale"] = 1,
+["borders"] = true,
+["barSettings"] = {
+["AIR"] = {
+["color"] = {
+0,
+0,
+0.99,
+0.7,
+},
+["hiddenSpells"] = {
+},
+["position"] = "auto",
+["buttonsOrder"] = {
+},
+},
+["EARTH"] = {
+["color"] = {
+0,
+0.49,
+0,
+0.7,
+},
+["hiddenSpells"] = {
+},
+["position"] = "auto",
+["buttonsOrder"] = {
+},
+},
+["WATER"] = {
+["color"] = {
+0,
+0.49,
+0.49,
+0.7,
+},
+["hiddenSpells"] = {
+},
+["position"] = "auto",
+["buttonsOrder"] = {
+},
+},
+["FIRE"] = {
+["color"] = {
+0.49,
+0,
+0,
+0.7,
+},
+["hiddenSpells"] = {
+},
+["position"] = "auto",
+["buttonsOrder"] = {
+},
+},
+},
+["barLayout"] = "1row",
+},
+["active"] = 1,
+}

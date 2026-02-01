@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: ProspectProfit
+## Notes: Shows expected prospecting profit using Auctionator prices
+## Author: JaceyGoo
+## Version: 0.1
+## OptionalDeps: Auctionator
+
+ProspectProfit.lua

@@ -1,0 +1,12 @@
+## Interface: 11302
+## Title: GatherMate2ToggleNodes
+## Author: Speedy
+## Notes: Adds map button for ON-OFF nodes
+## Version: 1.0
+## Dependencies: GatherMate2
+## Thanks to FinalSolarFlare
+
+embeds.xml
+
+# Main
+GM2TN.lua

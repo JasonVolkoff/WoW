@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "TT Cast" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/castsequence reset=combat/15 Stoneskin Totem(Rank 6), Searing Totem(Rank 5), Mana Spring Totem(Rank 3), Grace of Air Totem(Rank 1)
+END

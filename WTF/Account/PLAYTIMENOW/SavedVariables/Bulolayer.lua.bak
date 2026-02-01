@@ -1,0 +1,36 @@
+
+BulolayerDB = {
+["stats"] = {
+["lastSwapDate"] = "",
+["partners"] = {
+},
+["todaySwaps"] = 0,
+["totalSwaps"] = 0,
+["lastSwapTime"] = 0,
+},
+["settings"] = {
+["rateLimitInvites"] = 5,
+["guildOnly"] = false,
+["guild"] = true,
+["inviteInRaid"] = false,
+["rateLimitBroadcast"] = 10,
+["verbose"] = false,
+["enabled"] = false,
+["message"] = "layer",
+["friendsOnly"] = false,
+["whisper"] = true,
+["channel"] = "layer",
+["inviteThreshold"] = 4,
+["autoLeaveDelay"] = 3,
+["delay"] = 1800,
+["autoLeave"] = false,
+},
+["favorites"] = {
+},
+["minimap"] = {
+["position"] = -132.0742842382302,
+["hide"] = false,
+},
+["blacklist"] = {
+},
+}

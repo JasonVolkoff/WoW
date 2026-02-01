@@ -1,0 +1,46 @@
+VER 3 0000000000000002 "DBM" "134504"
+/details toggle
+END
+VER 3 0000000000000004 "Mana" "132220"
+/run local m=UnitPower("player",0); local mm=UnitPowerMax("player",0); if mm>0 then SendChatMessage("<<< HEALER Mana at: "..math.floor(m/mm*100).."% >>>","PARTY") end
+END
+VER 3 0000000000000005 "Mana Tide" "135861"
+#showtooltip Mana Tide Totem
+/run local s="Mana Tide Totem";local a,b=GetSpellCooldown(s);SendChatMessage("Mana Tide CD: "..(a==0 and "Ready" or ceil(a+b-GetTime()).."s"),"SAY")/rel
+END
+VER 3 0000000000000003 "Stormstrike" "132314"
+#showtooltip
+/cast stormstrike
+/startattack
+END
+VER 3 0000000000000001 "Tab" "135500"
+/targetenemy
+/startattack
+END
+VER 3 0000000000000009 "TDAir" "136022"
+#showtooltip
+/cast Windwall Totem
+END
+VER 3 000000000000000A "TDAll" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence reset=5 Strength of Earth Totem, Searing Totem, Fire Resistance Totem, Windwall Totem
+END
+VER 3 0000000000000006 "TDEarth" "136023"
+#showtooltip
+/cast Strength of Earth Totem
+END
+VER 3 0000000000000007 "TDFire" "135825"
+#showtooltip
+/cast Searing Totem
+END
+VER 3 0000000000000008 "TDWater" "135832"
+#showtooltip
+/cast Fire Resistance Totem
+END
+VER 3 000000000000000B "Tin" "132785"
+/tsm destroy
+END
+VER 3 000000000000000C "TotemAce_Sequence" "136098"
+#showtooltip
+/castsequence reset=10 Stoneskin Totem, Searing Totem, Healing Stream Totem, Windfury Totem
+END

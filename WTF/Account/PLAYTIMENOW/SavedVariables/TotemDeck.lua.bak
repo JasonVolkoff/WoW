@@ -1,0 +1,69 @@
+
+TotemDeckDB = {
+["activeWater"] = 8184,
+["activeEarth"] = 8075,
+["barPos"] = {
+["y"] = 112.9024658203125,
+["x"] = 4.58366584777832,
+["point"] = "BOTTOM",
+},
+["dimOutOfRange"] = true,
+["showWeaponBuffs"] = true,
+["greyOutPlacedTotem"] = true,
+["popupModifier"] = "NONE",
+["locked"] = false,
+["hiddenTotems"] = {
+["Earth"] = {
+},
+["Fire"] = {
+},
+["Air"] = {
+},
+["Water"] = {
+},
+},
+["customMacros"] = {
+},
+["totemExpirySound"] = true,
+["timerPosition"] = "ABOVE",
+["totemExpirySoundIDs"] = {
+["Earth"] = 8959,
+["Fire"] = 8959,
+["Water"] = 8959,
+["Air"] = 8959,
+},
+["alwaysShowPopup"] = false,
+["disablePopupInCombat"] = false,
+["showTimers"] = true,
+["lastMainHandBuff"] = 8017,
+["timerStyle"] = "icons",
+["barScale"] = 1,
+["showTooltips"] = true,
+["activeFire"] = 3599,
+["activeAir"] = 8177,
+["popupDirection"] = "UP",
+["elementOrder"] = {
+"Earth",
+"Fire",
+"Water",
+"Air",
+},
+["showReincarnation"] = true,
+["defaultMacrosEnabled"] = {
+["TDEarth"] = true,
+["TDFire"] = true,
+["TDWater"] = true,
+["TDAll"] = true,
+["TDAir"] = true,
+},
+["totemOrder"] = {
+["Earth"] = {
+},
+["Fire"] = {
+},
+["Air"] = {
+},
+["Water"] = {
+},
+},
+}

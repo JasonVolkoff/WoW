@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "TT Cast" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/castsequence reset=combat/15 Strength of Earth Totem(Rank 4), Magma Totem(Rank 4), Mana Spring Totem(Rank 4), Grace of Air Totem(Rank 2)
+END
